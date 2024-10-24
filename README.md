@@ -13,3 +13,5 @@ It is a small robot that has 2 motors thar are connected to an atmega 32 microco
  I used Microship Studio IDE for this project but I developped the MCAL Layer myself
  Idid not use the Library of AVR
  Simulation is done by proteus 
+ # NOTE
+ you can find more details about the systen in the control system file
