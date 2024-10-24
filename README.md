@@ -10,8 +10,9 @@ It is a small robot that has 2 motors thar are connected to an atmega 32 microco
  .L293D Motor Driver
  .Jumpers wires
  ## Software
- I used Microship Studio IDE for this project but I developped the MCAL Layer myself
- Idid not use the Library of AVR
+ I used Microship Studio IDE for this project but I developped the MCAL  myself
+ I did not use the Library of AVR
+ You can find the repo of the atmga32 peripheral drivers for other drivers if you need
  Simulation is done by proteus 
  ### NOTE
  you can find more details about the systen in the control system file
